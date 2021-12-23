@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @serranopuente
-- 👀 I’m interested in Public Economics, Taxation, Inequality, Quantitative Macroeconomics.
+- 👀 I’m interested in Public Finance, Taxation, Public Policy Evaluation, Quantitative Macroeconomics.
 - I work with both Micro-sumulation Tools and Quantitative Macroeconomics methods. 
 - I currently work undertaking research projects on fiscal policy issues, pension and redistribution system, and monitoring structural characteristics of the Spanish economy.
 
