@@ -1,3 +1,11 @@
+{
+ resolve: 'gatsby-remark-images',
+ options: {
+   linkImagesToOriginal: false,
+ },
+}
+
+
 # 👋 Welcome to Darío's Github portfolio
 
 I am a Pre-Doctoral PhD Researcher (PhD Candidate in Economics) at [Universitat de Barcelona - UB School of Economics](https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/) & [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu/en/researcher/serrano-puente-dario/).
