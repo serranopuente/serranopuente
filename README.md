@@ -1,10 +1,6 @@
-{
- resolve: 'gatsby-remark-images',
- options: {
-   linkImagesToOriginal: false,
- },
-}
-
+for img of select.all('a img')
+	if img.src === a.href
+		a.replaceWith(img)
 
 # 👋 Welcome to Darío's Github portfolio
 
