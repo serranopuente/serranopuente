@@ -4,16 +4,20 @@ I am a Pre-Doctoral PhD Researcher (PhD Candidate in Economics) at [Universitat 
 
 I obtained my MSc in Economics from [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2019 and my Bachelor's degree in Economics from [Universidad Autónoma de Madrid](https://www.uam.es/Economicas/Home.htm?language=en) in 2016.
 
-Previously: [AIReF](https://www.airef.es/es/) (Public Policy Evaluation Division) |  [CUNEF](https://www.cunef.edu/) (Research Economist at Department of Economics) | [Bank of Spain](https://www.bde.es/bde/en/) (Research Economist at DG Economics, Statistics and Research) | [NERA Economic Consulting](https://www.nera.com/practice-areas/energy.html#tab-4) (Research Associate at Energy Division) | [Management Solutions](https://www.managementsolutions.com/en) (Consultant at Financial Risks Area) | John Deere (Financial Department)
+<p style="font-size:10px;"> Previously: <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) | <a href ="https://www.cunef.edu/">CUNEF</a> (Research Economist at Department of Economics) | <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (Research Economist at DG Economics, Statistics and Research) | <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Research Associate at Energy Division) | <a href ="https://www.managementsolutions.com/en">Management Solutions</a> (Consultant at Financial Risks Area) </p>
 
-## Interests
+## My Research in A Nutshell
+
+How do households and firms respond to government policies (<b>taxes</b>, <b>regulations</b> and <b>public-spending policies</b>)? I address this research question both from empirical and theoretical perspective. Hence, I work with <b>micro-data & causal inference methods</b>, but also with <b>large-scale general equilibrium macro models</b>.
+
+## My Interests
 
 - 📈 Econ research fields: Public Finance | Taxation | Public Policy Evaluation | Inequality | Macroeconomics
 - 🛠️ Technical interests: Micro-Simulation Tools | Micro-Data | Computational Economics | [QuantEcon](https://quantecon.org/) | Machine Learning
 
-## </> 👨‍💻
+## </> Computer Literacy 👨‍💻
 
-<img src="./assets/icon/stata.ico" alt="stata icon" width="20"> Stata | <img src="./assets/icon/matlab.ico" alt="matlab icon" width="20"> Matlab | <img src="./assets/icon/python.ico" alt="python icon" width="20"> Python | <img src="./assets/icon/r.ico" alt="r icon" width="20"> Rstats | <img src="./assets/icon/julia.ico" alt="julia icon" width="20"> Julia | <img src="./assets/icon/fortran.ico" alt="fortran icon" width="20"> Fortran | <img src="./assets/icon/latex.ico" alt="latex icon" width="20"> LaTeX | <img src="./assets/icon/github2.ico" alt="github2 icon" width="25"> Github | <img src="./assets/icon/git.ico" alt="git icon" width="20"> Git | <img src="./assets/icon/html.ico" alt="html icon" width="15"> HTML | <img src="./assets/icon/css.ico" alt="css icon" width="15"> CSS | <img src="./assets/icon/euromod.ico" alt="euromod icon" width="15"> Euromod 
+<a><img src="./assets/icon/stata.ico" alt="stata icon" width="20"></a> Stata | <a><img src="./assets/icon/matlab.ico" alt="matlab icon" width="20"></a> Matlab | <a><img src="./assets/icon/python.ico" alt="python icon" width="20"></a> Python | <a><img src="./assets/icon/r.ico" alt="r icon" width="20"></a> Rstats | <a><img src="./assets/icon/julia.ico" alt="julia icon" width="20"></a> Julia | <a><img src="./assets/icon/fortran.ico" alt="fortran icon" width="20"></a> Fortran | <a><img src="./assets/icon/latex.ico" alt="latex icon" width="20"></a> LaTeX | <a><img src="./assets/icon/github2.ico" alt="github2 icon" width="25"></a> Github | <a><img src="./assets/icon/git.ico" alt="git icon" width="20"></a> Git | <a><img src="./assets/icon/html.ico" alt="html icon" width="15"></a> HTML | <a><img src="./assets/icon/css.ico" alt="css icon" width="15"></a> CSS | <a><img src="./assets/icon/euromod.ico" alt="euromod icon" width="15"></a> Euromod 
 
 ## Contact | Social Media
 
@@ -30,4 +34,4 @@ Previously: [AIReF](https://www.airef.es/es/) (Public Policy Evaluation Division
 
 ## Access my CV
 
-[<img src="./assets/icon/cv.ico" alt="cv icon" width="20"> Academic CV](https://drive.google.com/file/d/1C3yProBeiMkL-GZnW19uBOALO9yyY0CC/view) | [<img src="./assets/icon/resume.ico" alt="resume icon" width="20"> Professional resume](https://drive.google.com/file/d/1Ppcxm6zbbIvxjY-hUxClOITwYGsG3i4p/view)
+[<img src="./assets/icon/cv.ico" alt="cv icon" width="20"> Academic CV](https://serranopuente.eu/assets/docs/serrano_puente_dario_academic_cv.pdf)
