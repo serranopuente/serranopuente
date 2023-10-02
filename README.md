@@ -1,14 +1,21 @@
-# 👋 Welcome to Darío's Github portfolio
+# 👋 Hi, I'm Darío!
 
-I am a Pre-Doctoral PhD Researcher (PhD Candidate in Economics) at [Universitat de Barcelona - UB School of Economics](https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/) & [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu/en/researcher/serrano-puente-dario/).
+I am a PhD Candidate in Economics at [Universitat de Barcelona (UB)](https://www.ub.edu/school-economics/phd_students/serrano-puente-dario/) & [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu/en/researcher/serrano-puente-dario/).
 
-I obtained my MSc in Economics from [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2019 and my Bachelor's degree in Economics from [Universidad Autónoma de Madrid](https://www.uam.es/Economicas/Home.htm?language=en) in 2016.
-
-<p style="font-size:10px;"> Previously: <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) | <a href ="https://www.cunef.edu/">CUNEF</a> (Research Economist at Department of Economics) | <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (Research Economist at DG Economics, Statistics and Research) | <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Research Associate at Energy Division) | <a href ="https://www.managementsolutions.com/en">Management Solutions</a> (Consultant at Financial Risks Area) </p>
+<sup>I obtained my MSc in Economics from [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2019 and my Bachelor's degree in Economics from [Universidad Autónoma de Madrid](https://www.uam.es/Economicas/Home.htm?language=en) in 2016.<sup/>
 
 ## My Research in A Nutshell
 
 How do households and firms respond to government policies (<b>taxes</b>, <b>regulations</b> and <b>public-spending policies</b>)? I address this research question both from empirical and theoretical perspective. Hence, I work with <b>micro-data & causal inference methods</b>, but also with <b>large-scale general equilibrium macro models</b>.
+
+| 📈 Research Fields | 🛠️ Technical Interests |
+| -------- | ----------- |
+| `Public Economics` `Public Finance` `Taxation`  `Inequality`  | `Micro-Simulation Tools` `Micro-Data` `Computational Economics` [`QuantEcon`](https://quantecon.org/) `Machine Learning`  | 
+
+<p style="font-size:10px;"> Previously: <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) | <a href ="https://www.cunef.edu/">CUNEF</a> (Research Economist at Department of Economics) | <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (Research Economist at DG Economics, Statistics and Research) | <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Research Associate at Energy Division) | <a href ="https://www.managementsolutions.com/en">Management Solutions</a> (Consultant at Financial Risks Area) </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true)
 
 ## My Interests
 
