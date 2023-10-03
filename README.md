@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 # 👋 Hi, I'm Darío!
 
 I am a PhD Candidate in Economics at [Universitat de Barcelona (UB)](https://www.ub.edu/school-economics/) & [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu/en/).
