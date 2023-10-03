@@ -14,9 +14,6 @@ How do households and firms respond to government policies (<b>taxes</b>, <b>reg
 
 <p style="font-size:10px;"> Previously: <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) | <a href ="https://www.cunef.edu/">CUNEF</a> (Research Economist at Department of Economics) | <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (Research Economist at DG Economics, Statistics and Research) | <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Research Associate at Energy Division) | <a href ="https://www.managementsolutions.com/en">Management Solutions</a> (Consultant at Financial Risks Area) </p>
 
-<a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true)
 
 ## </> Computer Literacy 👨‍💻
@@ -26,18 +23,24 @@ How do households and firms respond to government policies (<b>taxes</b>, <b>reg
 
 ## Contact | Social Media
 
-[<img src="./assets/icon/email.ico" alt="email icon" width="20"> darioserrapuente@gmail.com](mailto:darioserrapuente@gmail.com) | [<img src="./assets/icon/email.ico" alt="email icon" width="20"> dario.serrano@ub.edu](mailto:dario.serrano@ub.edu)
+<a href="mailto:darioserrapuente@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/darioserrapuente(at)gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:dario.serrano@ub.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/dario.serrano(at)ub.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 
-[<img src="./assets/icon/twitter.ico" alt="twitter icon" width="20"> Twitter](https://twitter.com/darioserranopue) | [<img src="./assets/icon/mastodon.ico" alt="mastodon icon" width="20"> Mastodon](https://econtwitter.net/@serranopuente) | [<img src="./assets/icon/linkedin.ico" alt="linkedin icon" width="20"> LinkedIn](https://www.linkedin.com/in/serranopuente/) | [<img src="./assets/icon/github.ico" alt="github icon" width="25"> Github](https://github.com/serranopuente)
-
+<a href="https://www.linkedin.com/in/serranopuente" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/serranopuente-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://twitter.com/darioserranopue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@darioserranopue-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://econtwitter.net/@serranopuente" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/econtwitter.net/@serranopuente-6364FF?style=flat-square&logo=Mastodon&logoColor=white"></a>
+<a href="https://github.com/serranopuente" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/serranopuente-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
 ## Research Profiles
+<a href="https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Dario_Serrano--Puente-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
+<a href="https://orcid.org/0000-0002-5943-3332" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/0000--0002--5943--3332-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
+<a href="https://www.webofscience.com/wos/author/record/2296848" target="_blank"><img alt="Web of Science" src="https://img.shields.io/badge/AAQ--1157--2021-000000?style=flat-square&logo=clarivate&logoColor=white"></a>
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579" target="_blank"><img alt="SSRN" src="https://img.shields.io/badge/Dario_Serrano--Puente-154881?style=flat-square&logo=ssrn&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Dario-Serrano-Puente" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Dario_Serrano--Puente-00CCBB?style=flat-square&logo=researchgate&logoColor=white"></a>
 
-<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-[<img src="./assets/icon/scholar.ico" alt="scholar icon" width="20">`Google Scholar](https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es) | [<img src="./assets/icon/orcid.ico" alt="orcid icon" width="25"> ORCiD](https://orcid.org/0000-0002-5943-3332) | [<img src="./assets/icon/ideas.ico" alt="ideas icon" width="25"> IDEAS](https://ideas.repec.org/f/pse707.html) | [<img src="./assets/icon/webofscience.ico" alt="webofscience icon" width="25"> Web of Science](https://www.webofscience.com/wos/author/record/2296848) | [<img src="./assets/icon/ssrn.ico" alt="ssrn icon" width="25"> SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579) | [<img src="./assets/icon/bde.ico" alt="bde icon" width="25"> Banco de España Author's Repository](https://repositorio.bde.es/browse?type=author&value=Serrano+Puente%2C+Dar%C3%ADo)
 
 
 ## Access my CV
