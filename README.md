@@ -25,7 +25,7 @@
 
 :computer: My public repositories are mainly written in the following languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=postscript)
 
 ## Reach Me :mailbox:
 
